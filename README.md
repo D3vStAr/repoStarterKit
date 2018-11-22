@@ -1,3 +1,9 @@
+#Frorked Repo For Development Use
+This is a simle to use repo for more info on this REPO and how to get started with ReactJS froms Scratch check out the original author.
+(https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710)
+
+
+
 # Start building your own website
 This is a repository that I created to help others develop their websites in React.
 
