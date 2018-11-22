@@ -1,5 +1,5 @@
 #Frorked Repo For Development Use
-This is a simle to use repo for more info on this REPO and how to get started with ReactJS froms Scratch check out the original author.
+This is a simple to use repo for more info on this REPO and how to get started with ReactJS froms Scratch check out the original author.
 (https://medium.com/@Preda/getting-started-on-building-a-personal-website-with-react-b44ee93b1710)
 
 
